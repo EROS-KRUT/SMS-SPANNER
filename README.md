@@ -1,2 +1,2 @@
-# SMS-SPANNER
-IT IS VERY USEFUL APPLICATION WHERE WE GET TO KNOW THE FAKE SMS WHICH IS SENT BY THE HACKER TO HACK OUR DEVICE WITHOUT OUR KNOWLEGE
+# email-spam-classifier-new
+End to end code for the email spam classifier project
